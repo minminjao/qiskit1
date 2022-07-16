@@ -12,4 +12,5 @@
 1. <b> Bell-state qiskit coding </b>
 2. ⬇ <b>5-qubit GHZ state <= My selfstudying. </b> ⬇ and I want to see result "counts" ⬇
    <p><img width="30%" src="https://user-images.githubusercontent.com/108252034/178980317-df5efc4a-d627-4bf9-a030-6fc753912772.JPG" /><img width="30%" src="https://user-images.githubusercontent.com/108252034/178983272-a64b1897-e5e7-4cf5-88b7-2d18853153b9.JPG" />
-   
+3. <b> '01' qubit   </b>
+  
