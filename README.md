@@ -13,5 +13,8 @@
      <p><img width="25%" src="https://user-images.githubusercontent.com/108252034/179356507-ef98a0ca-d786-4827-936b-174197042f2e.JPG" />
 2. ⬇ <b>5-qubit GHZ state <= My selfstudying. </b> ⬇ and I want to see result "counts" ⬇
    <p><img width="30%" src="https://user-images.githubusercontent.com/108252034/178980317-df5efc4a-d627-4bf9-a030-6fc753912772.JPG" /><img width="30%" src="https://user-images.githubusercontent.com/108252034/178983272-a64b1897-e5e7-4cf5-88b7-2d18853153b9.JPG" />
-3. <b> '01' qubit   </b>
-  
+3. <b> '01' qubit   </b> 
+   <p><img width="30%" src="https://user-images.githubusercontent.com/108252034/183637953-84b61aaf-d77d-413f-ae78-ea93513ee7d2.png" />
+      <img width="10%" src="https://user-images.githubusercontent.com/108252034/183638691-5b6ee8c2-19e9-46e1-80e7-917843915c76.png" /> <- It's definitely 01 but the value is reversed
+         
+4. 
