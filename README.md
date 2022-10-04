@@ -17,5 +17,9 @@
    <p><img width="30%" src="https://user-images.githubusercontent.com/108252034/183637953-84b61aaf-d77d-413f-ae78-ea93513ee7d2.png" />
       <img width="10%" src="https://user-images.githubusercontent.com/108252034/183638691-5b6ee8c2-19e9-46e1-80e7-917843915c76.png" /> <- It's definitely 01 but the value is reversed
          
-4. <b> 1 큐비트 짜리 답 출력 및 유니터리 게이트 활용(Unitary gate) </b>
+4. <b> 1 큐비트 짜리 답 출력 및 유니터리 게이트 활용(Unitary gate) </b> 
+   <p><img width="30%" src="https://user-images.githubusercontent.com/108252034/193744942-851ca35e-bfcb-4609-b2a1-f72d52eb3a89.png" />
+
+
+
        
